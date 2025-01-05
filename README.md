@@ -1,6 +1,5 @@
--  I’m going to 🪓
+-  I’m 🪓
 -  I’m going to make :alchemy
--  I need iron ⚔️
 
 <!---
 ni3-2839574/ni3-2839574 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
