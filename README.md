@@ -4,6 +4,7 @@
 
 | Project |
 | :------ |
+| ❌ [0 $STN](https://claims.sirath.network) | 
 | https://polaris.app/
 
 <!---
