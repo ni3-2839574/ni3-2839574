@@ -1,10 +1,12 @@
+✔️ ✅ ❌ ⚠️ ℹ️ ❓ ❌[mammoths](https://modularium.art/collection/mammoths) ❌[habitats](https://modularium.art/collection/habitats) ❌[marguerite](https://modularium.art/collection/feuiller-la-marguerite)
 
 ---
+
 ### TO DO
 
 | Project                                       | Wallet              | Notes     |      |
 | :--------                                     | :--------           | :-------- | :--- |
-| ❓ axelar discord
+| ✅ axelar discord
 | ❓ [AIGILOS](https://quest.intract.io/quest/6764267cb4c9cfdac86ec3e7) 
 | https://polaris.app/
 
